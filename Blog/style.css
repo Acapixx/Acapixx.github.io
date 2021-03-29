@@ -1,0 +1,53 @@
+body{
+    margin: 25px;
+    font-family : calibri; 
+    background-color : #e7e6e1;
+    
+  }
+  .hero2{height: 70vh;
+    background-color: red;
+    background-image: url(https://cdn.pixabay.com/photo/2016/05/09/11/09/tennis-1381230_1280.jpg);
+    background-size: cover; border-radius:12px;
+    }
+  .hero{
+    height: 70vh;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://cdn.pixabay.com/photo/2020/04/08/19/04/sports-5018589_1280.jpg);
+    background-size: cover; border-radius:12px;
+    
+  
+  }
+  
+  .exemple1 {
+    color: white;
+    text-shadow: 2px 2px 0px #ae4e6f;
+  }
+  
+  
+  .exemple2 h1{ font-family: Faster one; 
+   color:white ; 
+   text-align:center; 
+  }
+  h1{text-align:center;
+    color: white;
+    background-color: #314e52;
+    text-align: center;
+    font-family: "Anton", sans-serif;
+    font-size: "20px";
+    border-radius:15px;
+    margin:35px 100px}
+      
+  text-decoration : underline;}
+  h2{text-align:center;}
+  div {
+    border: 1px solid;
+    margin:15px;
+    padding:30px;
+    background-color:white;
+    border-radius:10px;
+    box-shadow: 1px 1px 1px rgba(5,6,7,.8);
+  }
+  
